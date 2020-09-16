@@ -29,6 +29,8 @@ And too when it's work prob, i can try to do my best.
 ### A funny story 
 I was sit down to enjoy a hot cup of coffee, then my boss ask me to do something that will last until the coffee is cold. 
 
+If you want to do it something, do it now!
+
 ### TL;DR
 
 [<< previous](https://github.com/GemaHonesta/markdownchallenge/blob/master/README.md) || Gianluca Tiengo || [next >>](https://github.com/Ibrahim-sho/markdown-challenge/blob/master/README.md) 
