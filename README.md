@@ -1,7 +1,7 @@
 # markdown-challagne
 # Gianluca Tiengo
 *“Once you have eliminated the impossible, whatever remains, however improbable, must be the truth.”*
-![GitHub Logo](/images/logo.png)
+![alt text] (./.jpg)
 ### "Vivi e lascia vivere"
 
 Birthday: | 24-11-1984
