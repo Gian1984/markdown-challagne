@@ -1,4 +1,32 @@
 # markdown-challagne
 # Gianluca Tiengo
 *“Once you have eliminated the impossible, whatever remains, however improbable, must be the truth.”*
-![](image.png)
+![GitHub Logo](/images/logo.png)
+### "Vivi e lascia vivere"
+
+Birthday: | 24-11-1984
+|---------|-----------|
+Favorite color: | Blu
+Favorite food: | Pizza
+Pinneapple on pizza: |<ul><li>[ ] Yes</li><li>[x] No</li></ul>
+
+### Hobbies
+
+- Sports 
+  - Basketball
+  - Football
+  - Hockey
+- Film
+  - Commedy
+  - Horror
+  
+### You can always count on me when... 
+When someone need a smile, or talk about his personal problem .... 
+And too when it's work prob, i can try to do my best.
+
+### A funny story 
+I was sit down to enjoy a hot cup of coffee, then my boss ask me to do something that will last until the coffee is cold. 
+
+### TL;DR
+
+[<< previous] || Gianluca Tiengo || [next >>] 
